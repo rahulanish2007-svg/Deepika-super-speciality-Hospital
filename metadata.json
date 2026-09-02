@@ -1,0 +1,6 @@
+{
+  "name": "Deepika Super Speciality",
+  "description": "Advanced Super Speciality Healthcare application with 5-step appointment booking, 24/7 emergency dispatch, doctor search, and AI health assistant triage.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
